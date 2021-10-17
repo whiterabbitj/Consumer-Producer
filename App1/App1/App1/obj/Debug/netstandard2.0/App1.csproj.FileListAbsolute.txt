@@ -1,0 +1,14 @@
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/bin/Debug/netstandard2.0/CodingTest2020InputStimulus1.csv
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/bin/Debug/netstandard2.0/App1.deps.json
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/bin/Debug/netstandard2.0/App1.dll
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/bin/Debug/netstandard2.0/App1.pdb
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/obj/Debug/netstandard2.0/App1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/obj/Debug/netstandard2.0/App1.AssemblyInfoInputs.cache
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/obj/Debug/netstandard2.0/App1.AssemblyInfo.cs
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/obj/Debug/netstandard2.0/App1.csproj.CoreCompileInputs.cache
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/obj/Debug/netstandard2.0/App1.dll
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/obj/Debug/netstandard2.0/App1.pdb
+/Users/whiterabbitj/RiderProjects/App1/App1/App1/obj/Debug/netstandard2.0/App1.csproj.AssemblyReference.cache

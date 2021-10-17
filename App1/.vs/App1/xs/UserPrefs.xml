@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{444296AD-4031-4309-9482-212A910F8652}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App1/App1/MainPageViewModel.cs">
+    <Files>
+      <File FileName="App1/App1/MainPageViewModel.cs" Line="86" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App1" expanded="True">
+            <Node name="App1" expanded="True">
+              <Node name="MainPageViewModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.App1.Android PreferredExecutionTarget="Android.Pixel_3_API_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
